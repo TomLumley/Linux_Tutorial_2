@@ -1,0 +1,3 @@
+[submodule "known/cyber-attacks"]
+	path = known/cyber-attacks
+	url = https://github.com/charlesmorisset/known-cyber-attacks.git
